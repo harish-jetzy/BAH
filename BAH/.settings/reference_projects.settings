@@ -1,0 +1,6 @@
+{
+  "reference_projects" : [ {
+    "project" : "TALENDCLOUD_SNOWFLAKE_POC",
+    "branch" : "master"
+  } ]
+}
