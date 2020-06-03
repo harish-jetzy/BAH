@@ -8,6 +8,9 @@
   <packaging>pom</packaging>
   <name>POC_DEV_SPACE Codes Master</name>
   <url>http://www.talend.org/</url>
+  <modules>
+    <module>code/routines</module>
+  </modules>
   <properties>
     <signer.version>7.2.1</signer.version>
     <talend.project.name>POC_DEV_SPACE</talend.project.name>
